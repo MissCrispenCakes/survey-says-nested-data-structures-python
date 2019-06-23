@@ -1,4 +1,4 @@
-import people from database
+import database
 
 # All the survey responses are stored in a list called "people". (Remember to use dot syntax!)
 

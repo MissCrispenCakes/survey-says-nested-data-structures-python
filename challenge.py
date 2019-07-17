@@ -40,7 +40,7 @@ import database
 
 
 
-# 8. Iterate over the list in order to figure out how many respondents listed "The Office" as their one of their favorite shows.
+# 8. Iterate over the list in order to figure out how many respondents listed "The Office" as one of their favorite shows.
 
 
 

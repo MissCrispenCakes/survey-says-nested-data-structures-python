@@ -45,11 +45,11 @@ import database
 
 
 
-# 9. Print out a list of all the bands that are liked by at least two people.
+# 9. CHALLENGE: Print out a list of all the bands that are liked by at least two people.
 #    Pro-tip: some respondents capitalized band names and other respondents did not, so for example, if Panic at the Disco isn't listed, your code isn't accurately reporting your results.
 
 
 
 
 
-# 10. Identify anyone on the list who has no common interests (bands or shows) with anyone else. Print their names.
+# 10. MEGA-CHALLENGE: Identify anyone on the list who has no common interests (bands or shows) with anyone else. Print their names.

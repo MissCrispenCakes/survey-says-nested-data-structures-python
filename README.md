@@ -47,6 +47,8 @@ If you already have a good idea of how to start this based on previous labs, go 
   # 1. Print out the name of the first person who responded to the survey
   print(database.people[0]["some_string_here"])
   ```
+  
+  You'll obviously need to replace `"some_string_here"` with something else - try looking at the console output to see which key you'll need to access their name, which is Daniel.
 
 </details>
 <br>

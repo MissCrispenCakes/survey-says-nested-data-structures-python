@@ -5,7 +5,7 @@ It has the expected outputs for some of the challenges in challenge.py
 Please note a few things before peeking at the answers:
 * You may choose to do this entire lab without ever peeking at this file. 
 * The point of these exercises is not to get the answers, it's to figure out a way that makes sense to you to get the answers. This file exists mainly to scratch that itch that asks "is this solution right?"
-* Just because your outputs don't match the ones listed here doesn't mean what you did was wrong. There are *VERY* often multiple correct answers to a single question depending on how you interpret it. 
+* Just because your outputs don't match the ones listed here doesn't always mean what you did was wrong. There are *VERY* often multiple correct answers to a single question depending on how you interpret it. 
     * For example: If a challenge said "find everyone who likes the band 'Paramore'" and someone listed "'paramre'" (mispelled and lowercased) it's up to you to decide whether you want to build a program that would include that person.
 * If you can't see how one of these answers was created, try not to jump straight to trying to fix your answers. Your best way to start debugging is to add a print statement after each line to make sure what you want to have happen is what's really happening.
 

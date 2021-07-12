@@ -4,7 +4,7 @@
 
 ## The Goal
 
-The information in the database file attached here has results from a survey Jeff took of some of his friends. He's going to use that information to learn some things about the friends who answered the survey. For example:
+The information in the database file attached here has results from a survey Jeff took of some of his friends. He's going to use that information to learn some things about the friends who answered the survey, and maybe even use it as a way to help some of them connect with and meet new friends. For example:
 * What percent of his friends are programmers?
 * Do they like similar or dissimilar music?
 * How many of them live in each state?
